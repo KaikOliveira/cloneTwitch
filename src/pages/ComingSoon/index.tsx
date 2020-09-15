@@ -6,7 +6,8 @@ import { Wrapper, Heading } from './styles';
 const ComingSoon: React.FC = () => {
   return (
     <Wrapper>
-      <Heading>Em Manutenção</Heading>
+      <Heading>Em Manutenção
+      </Heading>
     </Wrapper>
   );
 };
